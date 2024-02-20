@@ -1,4 +1,4 @@
-# Iw4m status to discord
+# Iw4m api status to discord
 
 Simple status bot using Iw4m api made with Discord.py.
 
