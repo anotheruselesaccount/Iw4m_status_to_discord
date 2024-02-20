@@ -6,7 +6,7 @@ Simple status bot using Iw4m api made with Discord.py.
 
 **Install**: follow readme.txt inside zip file.
 
-![Discord]([https://discord.gg/qamf2V5M82](https://discord.gg/mtAsvArAJD))
+[Discord]([https://discord.gg/qamf2V5M82](https://discord.gg/mtAsvArAJD)
 
 # Showcase of the bot status message
 
