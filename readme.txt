@@ -6,7 +6,7 @@ Example config.json
 
 {
     "discord_bot_token": "HTfsvbsdgh4bvffRBs.rheb.gjnetjetj5mhmt5k",
-    "iw4m_webfront_url": "192.123.123.1",
+    "iw4m_webfront_url": "192.123.123.1:1234",
     "discord_channel_id": "23523428907523509",
     "refresh_time_in_minutes": "1",
     "game": ""
