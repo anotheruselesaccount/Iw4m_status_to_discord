@@ -1,6 +1,6 @@
 # Iw4m status to discord
 
-Simple status both using Iw4m api made with Discord.py.
+Simple status bot using Iw4m api made with Discord.py.
 
 **Download**: https://github.com/anotheruselesaccount/Iw4m_status_to_discord/releases
 
