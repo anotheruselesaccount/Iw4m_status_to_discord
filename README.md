@@ -2,7 +2,9 @@
 
 Simple status both using Iw4m api made with Discord.py.
 
-Download:
+**Download**: https://github.com/anotheruselesaccount/Iw4m_status_to_discord/releases
+
+**Install**: follow readme.txt inside zip file.
 
 # Showcase of the bot status message
 
