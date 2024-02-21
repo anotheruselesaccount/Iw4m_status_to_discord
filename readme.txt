@@ -36,4 +36,4 @@ Install requirements after installing python by double clicking install_requirem
 
 Compile your own executable file with pyinstaller. First install with pip install pyinstaller
 
-pyinstaller --noconfirm --onefile basic_iw4m_api_status.py
+pyinstaller --noconfirm --onefile iw4m_status_bot.py
