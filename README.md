@@ -1,10 +1,15 @@
-# Iw4m api status to discord
+# IW4M API STATUS TO DISCORD
 
 Simple status bot using Iw4m api made with Discord.py.
 
 **Download**: https://github.com/anotheruselesaccount/Iw4m_status_to_discord/releases
 
 **Install**: follow readme.txt inside zip file.
+
+# Features:
+* Ability to choose show/hide player names in status message.
+* Select to all games or just selected game. Max server limit for 1 message is 25. Incase you have more then 25 servers suggestion is to make own channel for each game.
+
 
 [Discord Link](https://discord.gg/mtAsvArAJD)
 
