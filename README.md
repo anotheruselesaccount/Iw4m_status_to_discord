@@ -8,7 +8,7 @@ Simple status bot using Iw4m api made with Discord.py.
 
 # Features:
 * Ability to choose show/hide player names in status message.
-* Select to all games or just selected game. Max server limit for 1 message is 25. Incase you have more then 25 servers suggestion is to make own channel for each game.
+* Select all games or only selected game to show in status message. Max server limit for 1 message is 25. Incase you have more then 25 servers suggestion is to make own channel for each game.
 
 
 [Discord Link](https://discord.gg/mtAsvArAJD)
