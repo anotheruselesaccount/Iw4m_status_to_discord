@@ -1,5 +1,7 @@
 # IW4M API STATUS TO DISCORD
 
+<a href="https://github.com/anotheruselesaccount/Iw4m_status_to_discord/releases"><img src="https://img.shields.io/github/downloads/anotheruselesaccount/Iw4m_status_to_discord/total?label=Download%20&style=for-the-badge" alt="All GitHub releases"></a>
+
 Simple status bot using Iw4m api made with Discord.py.
 
 **Download**: https://github.com/anotheruselesaccount/Iw4m_status_to_discord/releases
