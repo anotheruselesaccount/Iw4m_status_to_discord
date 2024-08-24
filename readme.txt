@@ -18,7 +18,7 @@ Get your iw4m_webfront_url by setting up iw4m at https://raidmax.org/IW4MAdmin/.
 
 You can get your discord_bot_token from https://discord.com/developers/applications.
 
-Here is few examples of available game options "", "ALL", "T4", "T5", "T6", "T7", "IW5".
+Here is few examples of available game options "", "ALL", "T4", "T5", "T6", "T7", "IW5", H2M.
 
 You can get discord_channel_id by right clicking discord channel and selecting copy channel id.
 
