@@ -3,6 +3,7 @@
 install requirements:
 pip install discord.py
 pip install colorama
+pip install requests
 '''
 
 from colorama import init, Fore, Back, Style
@@ -119,7 +120,7 @@ async def check_status():
             total_servers += 1
             number += 1
 
-        embed = discord.Embed(timestamp=datetime.utcnow(), title=f"**• Server Status • {'Modern Warfare 3' if game == 'IW5' else 'World at War' if game == 'T4' else 'Black ops 1' if game == 'T5' else 'Black ops 2' if game == 'T6' else 'Black ops 3' if game == 'T7' else ''}**", color=2763306)
+        embed = discord.Embed(timestamp=datetime.now(), title=f"**• Server Status • {'Modern Warfare 2 Remastered' if game == 'H2M' else 'Modern Warfare 3' if game == 'IW5' else 'World at War' if game == 'T4' else 'Black ops 1' if game == 'T5' else 'Black ops 2' if game == 'T6' else 'Black ops 3' if game == 'T7' else ''}**", color=2763306)
         
         for i in range(len(isOnline)):
             if i == 25: #max fields limit in embed message
